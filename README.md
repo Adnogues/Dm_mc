@@ -1,8 +1,5 @@
-Dm_mc
+DM de modèle de calcul
 =====
-
-Dm de mc
-
 
 **Résultats attendus**
 
